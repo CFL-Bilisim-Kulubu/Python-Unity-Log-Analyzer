@@ -153,4 +153,4 @@ cython_debug/
 
 
 # don't update key file
-.txt
+*.txt
