@@ -1,0 +1,1 @@
+BoltException: You can't access any Bolt specific methods or properties on an entity which is detached
